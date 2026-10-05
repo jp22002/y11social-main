@@ -10,10 +10,10 @@
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
             <div class="flex text-[2.4vw]">
                 <div class="ml-[12vw]">
-                    <a href="views/index.html">homepage</a>
+                    <a href="/">homepage</a>
                 </div>
                 <div class="ml-[12vw]">
-                    <a href="views/index.html">defining</a>
+                    <a href="/define">defining</a>
                 </div>
                 <div class="ml-[12vw]">
                     <a href="views/index.html">problem</a>

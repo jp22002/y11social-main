@@ -5,6 +5,10 @@ from bottle import route, run, static_file, template, view
 def home():
     return {}
 
+@route('/define')
+@view('define')
+def define():
+    return {}
 
 
 @route('/static/<filename>')
