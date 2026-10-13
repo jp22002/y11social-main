@@ -9,7 +9,10 @@ def home():
 @view('define')
 def define():
     return {}
-
+@route('/feesh')
+@view('feesh')
+def feesh():
+    return {}
 
 @route('/static/<filename>')
 def server_static(filename):
