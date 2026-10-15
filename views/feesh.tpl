@@ -3,17 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <title>Tailwind CSS Carousel - Fixed Arrows</title>
-  <!-- Tailwind Play CDN for testing -->
   <script src="https://jsdelivr.net"></script>
 </head>
 <body class="m-0 p-12 font-sans">
-
   <h1 class="text-center text-3xl font-bold mb-6 text-gray-800">
     CSS carousel multiple items per page
   </h1>
-  
-  <ul class="flex w-full h-[300px] p-2.5 m-0 overflow-x-auto snap-x snap-mandatory [scrollbar-width:none] [&::-webkit-scrollbar]:hidden [anchor-name:--my-carousel] [scroll-marker-group:after]
-             
+  <ul class="flex w-full h-[300px] p-2.5 m-0 overflow-x-auto snap-x snap-mandatory [scrollbar-width:none] [&::-webkit-scrollbar]:hidden [anchor-name:--my-carousel] [scroll-marker-group:after]   
              /* Global scroll-button configuration */
              [&::scroll-button(*)]:border-0 
              [&::scroll-button(*)]:text-3xl 
@@ -46,8 +42,6 @@
              [&::scroll-marker-group]:justify-center 
              [&::scroll-marker-group]:gap-2 
              [&::scroll-marker-group]:mt-4">
-             
-    <!-- Carousel Items -->
     <li class="list-none flex-[0_0_calc(33.333%-20px)] min-w-[200px] h-full bg-[#eeeeee] border border-[#dddddd] p-5 mx-2.5 rounded-lg snap-start even:bg-cyan-100
                [&::scroll-marker]:content-[''] [&::scroll-marker]:w-3 [&::scroll-marker]:h-3 [&::scroll-marker]:rounded-full [&::scroll-marker]:bg-gray-400 [&::scroll-marker]:cursor-pointer [&::scroll-marker:checked]:bg-black">
       <h2 class="text-xl font-semibold">Item 1</h2>
