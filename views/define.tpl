@@ -60,18 +60,32 @@
                 <img src="static\algorithm2.png" class="ml-[2.5vw] w-[10vw] h-[10vw] rounded-[4vw]">
                 <img src="static\algorithm3.png" class="ml-[2.5vw] w-[10vw] h-[10vw] rounded-[4vw]">
             </div>
-            <div class="flex pt-[4vw] mt-[2vw] bg-[#0C1821] text-[#CCC9DC] text-[1.2vw] text-justify">
-                <div class="w-[20vw] ml-[2vw]">
+            <div class="flex pt-[2vw] mt-[2vw] pb-[2vw] bg-[#0C1821] text-[#CCC9DC] text-[1.2vw] text-center text-justify">
+                <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
                     <div>
                         Social media is what causes people to have mental disorders:
 
                     </div>
                     <div>
-                        Many young people who are struggling with anxiety or depression use screens as an escape from real life. While they may more often use social media correlation doesn't equate to causation
+                        Many young people who are struggling with anxiety or depression use screens as an escape from real life. While they may more often use social
+                        media correlation doesn't equate to causation
+
+                    </div>
+                </div>
+                <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
+                    <div>
+                        All screen time is bad:
+
+                    </div>
+                    <div>
+                        While some people may say that screen time is bad, it truly depends on the type of screen time, some is better than others for 
+                        example a short time watching educational videos is way different to a long time playing games.
+
 
                     </div>
                 </div>
             </div>
+            
 
 
             <div class="flex pt-[4vw]">
