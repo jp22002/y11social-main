@@ -9,9 +9,15 @@ def home():
 @view('define')
 def define():
     return {}
-@route('/feesh')
-@view('feesh')
-def feesh():
+
+@route('/problem')
+@view('problem')
+def problem():
+    return {}
+
+@route('/action')
+@view('action')
+def action():
     return {}
 
 @route('/static/<filename>')

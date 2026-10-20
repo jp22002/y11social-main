@@ -9,17 +9,33 @@
     <body class="bg-[#1B2A41] display: none;">
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
             <div class="flex text-[2.4vw]">
-                <div class="ml-[12vw]">
-                    <a href="/">homepage</a>
+                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                    <a href="/" class="no-underline text-black">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821] rounded-[2vw] w-[13vw] text-center">
+                            homepage
+                        </div>
+                    </a>
                 </div>
-                <div class="ml-[12vw]">
-                    <a href="/define">defining</a>
+                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                    <a href="/define" class="no-underline text-black">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                            define
+                        </div>
+                    </a>
                 </div>
-                <div class="ml-[12vw]">
-                    <a href="views/index.html">problem</a>
+                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                    <a href="/problem" class="no-underline text-black">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                            problem
+                        </div>
+                    </a>
                 </div>
-                <div class="ml-[12vw]">
-                    <a href="views/index.html">action</a>
+                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                    <a href="/action" class="no-underline text-black">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                            action
+                        </div>
+                    </a>
                 </div>
             </div>
         </nav>
