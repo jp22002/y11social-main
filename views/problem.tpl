@@ -39,9 +39,74 @@
                 </div>
             </div>
         </nav>
+        <div id="page"  class="bg-[#1B2A41]">
+            <div class="flex pt-[4vw]">
+                <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[25vw]">
+                        <img src="static\jas.png" class="w-[25vw] h-[24vw] rounded-[1vw]">
+                    </div>
+                </div>
+                <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
+                        <div>
+                            
+                        </div>
+
+                    </div>
+                </div>
+            </div>
 
 
+            <div class="flex pt-[2vw] mt-[2vw] pb-[2vw] bg-[#0C1821] text-[#CCC9DC] text-[1.2vw] text-center text-justify">
+                <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
+                    <div>
+                        pbl
+                    </div>
+                </div>
+                <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
+                    <div>
+                        pbl
 
-        
+                    </div>
+                </div>
+                <div class="w-[20vw] h-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw] mr-[10vw]">
+                    <div>
+                        pbl
+                    </div>
+                </div>
+            </div>
+            
+
+
+            <div class="flex pt-[4vw]">
+                <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[25vw]">
+                        <img src="static\jas.png" class="w-[25vw] h-[24vw] rounded-[1vw]">
+                    </div>
+                </div>
+                <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
+                        <div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="flex pt-[4vw]">
+                <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
+                        <div>
+                            
+                        </div>
+
+                    </div>
+                </div>
+                <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
+                    <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[25vw]">
+                        <img src="static\jas.png" class="w-[25vw] h-[24vw] rounded-[1vw]">
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
