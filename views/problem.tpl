@@ -49,7 +49,10 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            
+                            Social media has proven to have some issues which affect teens. Social media is shown to affect the sleep time of teens 
+                            which is a negative on a developing body. Social media is also shown to cause anxiety due to the perception of perfection
+                             on many social media websites where the best is shown but not the worst causing self questioning. Meanwhile social media
+                              is also seen as a link to depression but this is also seen as correlation and not causasion in multiple studies.
                         </div>
 
                     </div>
@@ -60,18 +63,21 @@
             <div class="flex pt-[2vw] mt-[2vw] pb-[2vw] bg-[#0C1821] text-[#CCC9DC] text-[1.2vw] text-center text-justify">
                 <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
                     <div>
-                        pbl
+                        "There’s nothing inherently cool about social media... The reason you wanna be on it is because everyone’s on it. That’s the 
+                        whole thing. It’s not like social media is this super-cool thing… You need it because everyone has it." - 17 year old
                     </div>
                 </div>
                 <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
                     <div>
-                        pbl
+                        "As a 13 year old my decline of mental health traces to anxiety of you banning the ability to tell my opinion online..." - 13 year old
 
                     </div>
                 </div>
                 <div class="w-[20vw] h-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw] mr-[10vw]">
                     <div>
-                        pbl
+                        “It doesn't take much. You just take out your phone, open one app, and you begin to scroll. I do wish I had more self control over my habits.” - 14 year old 
+
+
                     </div>
                 </div>
             </div>
@@ -96,9 +102,15 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            
+                            Social media impacts teenagers in how they act, the affect of what we do in the dark is heavily shown 
+                            on the internet as there is almost no way for someone to trace something you said back to you physcially. 
+                            This has resulted in both behaviour of nz teens being negative to others but also discrimation to nz
+                             teens being seen especially in specific communities. Communities like Maori, Pacifica and LGBTQIA+ teens
+                              have reported that they are exposed to more online discrimination just due to who they are. It is
+                               estimated that 10% of new zealand teens have sent harrassment comments to others. This affect is
+                                seen so much that with new zealand teens, 30% have experienced cyberbullying or hate in some way
+                                 online while the global average for teens is 18% online harrassment.
                         </div>
-
                     </div>
                 </div>
                 <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
