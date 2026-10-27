@@ -46,7 +46,7 @@
                         <div>
                             Problematic social media use is seen as when social media starts to interrupt your base 3 of Maslow's hierarchy of needs. 
                             This pyramid says what humans need to live a good life, we see some people with problematic social media use start to 
-                            fall behind on some parts of these basic needs.
+                            fall behind on some parts of these basic needs. Accourding to recent studies approximately 22% of teens are found to have problematic social media uses which results in issues with family, community and friends. 
                         </div>
 
                     </div>
@@ -66,7 +66,7 @@
                         This is because of Algorithms, algorithms work to keep you on the platform for as long as possible in 
                         multiple ways, their primary is giving you something which you want. This can create biases that get built
                         upon as they lead you down a rabbit hole which can quickly alter your opinion on subjects, due to the size
-                        of the internet there are so many opinionated places which you can go to on the web
+                        of the internet there are so many opinionated places which you can go to on the web. THis reinforces your opinion on the subject and can make you stay in that lane. It is very hard to not get an opinonated feed from science videos to brainrot it can result in seeing in a specific light. They all may be different in their perspecives but they all combine in how they create a rabbit hole.
 
                     </div>
                 </div>
@@ -74,9 +74,13 @@
 
 
             <div class="flex pb-[2vw] pt-[2vw] mt-[4vw] bg-[#0C1821]">
-                <img src="static\algorithm1.png" class="ml-[2.5vw] w-[10vw] h-[10vw] rounded-[4vw]">
-                <img src="static\algorithm2.png" class="ml-[2.5vw] w-[10vw] h-[10vw] rounded-[4vw]">
-                <img src="static\algorithm3.png" class="ml-[2.5vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algorithm1.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algor1.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algorithm2.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algor2.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algorithm3.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algor3.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
+                <img src="static\algorithm4.png" class="ml-[3.75vw] w-[10vw] h-[10vw] rounded-[4vw]">
             </div>
             <div class="flex pt-[2vw] mt-[2vw] pb-[2vw] bg-[#0C1821] text-[#CCC9DC] text-[1.2vw] text-center text-justify">
                 <div class="w-[20vw] ml-[10vw] bg-[#324A5F] text-[#CCC9DC] rounded p-[1vw]">
@@ -130,15 +134,15 @@
                     </div>
                 </div>
             </div>
-            <div class="flex pt-[4vw]">
+            <div class="flex pt-[4vw] pb-[4vw]">
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[38.5vw] text-[#CCC9DC] p-[2vw] text-[1.2vw]">
-                        tt
+                        Social media is both good and bad. It is only up to how you manage yourself that the subject of social media can be good or bad. A bad social media is subjective, your dream social media can be a nightmare to another person and it is depedant on both what you want but also how it affects you. Even though we are all human we respond to the same thing and different ways and some areas which feel safe and keep some safe will be horror and expose others.
                     </div>
                 </div>
                 <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[38.5vw] text-[#CCC9DC] p-[2vw] text-[1.2vw]">
-                        tt
+                        I think social media has made us addicted, social media has changed over and over again to maximize the dopamein to our brain and keep us on the platform. If the social media was not doing that it would result in us not using it as often and that social media falling behind. The addiction which social media provides us is seen in many people but we typically only assosiate with the "brainrot" form but the recognition of any other space online must also be spotted for social media issues.
                     </div>
                 </div>
             </div>
