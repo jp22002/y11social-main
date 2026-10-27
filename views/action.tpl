@@ -48,9 +48,8 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            The largest issue which nz teens are experiencing within this digital age is staying stuck online, many nz teens use social media and push aside their own responsabilities. The statastic which found out that 49% of nz teens say that found that social media disrupted their own time tells us the primary issue nz teens is the issue of being able to ground themselves as they can see how this is an issue but also cannot do anything about it. This can be a combination of factors from crowed pressure and also that others are not helping them to jump off social media. Especially with how the internet is made it means that teens are more encouraged to stay online as the online can predit what the teens need at that moment.
+                            t
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -58,14 +57,7 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            Social media impacts teenagers in how they act, the affect of what we do in the dark is heavily shown 
-                            on the internet as there is almost no way for someone to trace something you said back to you physcially. 
-                            This has resulted in both behaviour of nz teens being negative to others but also discrimation to nz
-                             teens being seen especially in specific communities. Communities like Maori, Pacifica and LGBTQIA+ teens
-                              have reported that they are exposed to more online discrimination just due to who they are. It is
-                               estimated that 10% of new zealand teens have sent harrassment comments to others. This affect is
-                                seen so much that with new zealand teens, 30% have experienced cyberbullying or hate in some way
-                                 online while the global average for teens is 18% online harrassment.
+                            t
                         </div>
                     </div>
                 </div>
@@ -85,9 +77,8 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            The largest issue which nz teens are experiencing within this digital age is staying stuck online, many nz teens use social media and push aside their own responsabilities. The statastic which found out that 49% of nz teens say that found that social media disrupted their own time tells us the primary issue nz teens is the issue of being able to ground themselves as they can see how this is an issue but also cannot do anything about it. This can be a combination of factors from crowed pressure and also that others are not helping them to jump off social media. Especially with how the internet is made it means that teens are more encouraged to stay online as the online can predit what the teens need at that moment.
+                            t                
                         </div>
-
                     </div>
                 </div>
             </div>
