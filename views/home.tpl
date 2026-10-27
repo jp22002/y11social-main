@@ -8,7 +8,7 @@
     </head>
     <body class="bg-[#1B2A41] display: none;">
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
-            <div class="flex text-[2.4vw]">
+            <div class="flex text-[2.4vw]"> 
                 <div class="ml-[9.6vw] text-[#CCC9DC]">
                     <a href="/" class="no-underline text-black">
                         <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821] rounded-[2vw] w-[13vw] text-center">
@@ -40,7 +40,7 @@
             </div>
         </nav>
         <div id="page"  class="bg-[#1B2A41]">
-            <div id="flexfirst" class="flex pt-[5vw]">
+            <div id="flexfirst" class="flex pt-[4vw]">
                 <div class="ml-[7vw] max-w-[26vw]">
                     <div class="bg-[0C1821] rounded-[2vw] p-[1vw]">
                         <img src="static\ssss.png" class="w-[16vw] h-[20vw] rounded-[2vw]">
@@ -69,7 +69,7 @@
                 </div>
             </div>
 
-            <div id="flexsecond" class="flex pt-[5vw] mt-[5vw] pb-[10vw]">
+            <div id="flexsecond" class="flex mt-[4vw] pb-[6vw]">
                 
                 <div class="ml-[7vw] mr-[7vw] rounded-[1vw] p-[0.7vw] bg-[#0C1821] max-w-[61vw]">
                     <div class="rounded-[1vw] p-[0.5vw] bg-[#324A5F] h-[100%]">

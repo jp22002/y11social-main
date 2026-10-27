@@ -95,14 +95,7 @@
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            Social media impacts teenagers in how they act, the affect of what we do in the dark is heavily shown 
-                            on the internet as there is almost no way for someone to trace something you said back to you physcially. 
-                            This has resulted in both behaviour of nz teens being negative to others but also discrimation to nz
-                             teens being seen especially in specific communities. Communities like Maori, Pacifica and LGBTQIA+ teens
-                              have reported that they are exposed to more online discrimination just due to who they are. It is
-                               estimated that 10% of new zealand teens have sent harrassment comments to others. This affect is
-                                seen so much that with new zealand teens, 30% have experienced cyberbullying or hate in some way
-                                 online while the global average for teens is 18% online harrassment.
+                            There are solutions to the social media ban. One which keeps on being suggested is the under 16 social media ban. This type of ban has already taken place in Australia and we can already see how it behaves, this ban does not stop young people from going online. The ban just encourages young people to not go online but still a reported ⅓ of teens lie about their are online to bypass the ban. Something which should be done is social media action to bannable terms which a parent could restrict for their teen or be restricting to teens and youth. This allows teens to still be able to go on social media platforms while keeping the teens away from harmful content. This still cannot address the anxiety point due to the perspective of social media.
                         </div>
                     </div>
                 </div>

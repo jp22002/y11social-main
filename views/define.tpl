@@ -134,7 +134,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex pt-[4vw] pb-[4vw]">
+            <div class="flex pt-[4vw] pb-[6vw]">
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[38.5vw] text-[#CCC9DC] p-[2vw] text-[1.2vw]">
                         Social media is both good and bad. It is only up to how you manage yourself that the subject of social media can be good or bad. A bad social media is subjective, your dream social media can be a nightmare to another person and it is depedant on both what you want but also how it affects you. Even though we are all human we respond to the same thing and different ways and some areas which feel safe and keep some safe will be horror and expose others.

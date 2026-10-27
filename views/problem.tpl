@@ -100,7 +100,7 @@
                     </div>
                 </div>
             </div>
-            <div class="flex pt-[4vw]">
+            <div class="flex pt-[4vw] pb-[6vw]">
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>

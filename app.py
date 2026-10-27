@@ -20,6 +20,11 @@ def problem():
 def action():
     return {}
 
+@route('/helps')
+@view('helps')
+def helps():
+    return {}
+
 @route('/static/<filename>')
 def server_static(filename):
     return static_file(filename, root='./static')
