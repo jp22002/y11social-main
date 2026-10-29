@@ -70,7 +70,6 @@
             </div>
 
             <div id="flexsecond" class="flex mt-[4vw] pb-[6vw]">
-                a
                 <div class="ml-[7vw] mr-[7vw] rounded-[1vw] p-[0.7vw] bg-[#0C1821] max-w-[61vw]">
                     <div class="rounded-[1vw] p-[0.5vw] bg-[#324A5F] h-[100%]">
                         <div class="flex">
