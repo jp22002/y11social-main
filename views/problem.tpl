@@ -88,13 +88,13 @@
             <div class="flex pt-[4vw]">
                 <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[25vw]">
-                        <img src="static\jas.png" class="w-[25vw] h-[24vw] rounded-[1vw]">
+                        <img src="static\lesssocial.jpg" class="w-[25vw] h-[24vw] rounded-[1vw]">
                     </div>
                 </div>
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[52vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
                         <div>
-                            The largest issue which nz teens are experiencing within this digital age is staying stuck online, many nz teens use social media and push aside their own responsabilities. The statastic which found out that 49% of nz teens say that found that social media disrupted their own time tells us the primary issue nz teens is the issue of being able to ground themselves as they can see how this is an issue but also cannot do anything about it. This can be a combination of factors from crowed pressure and also that others are not helping them to jump off social media. Especially with how the internet is made it means that teens are more encouraged to stay online as the online can predit what the teens need at that moment.
+                            The largest issue which nz teens are experiencing within this digital age is staying stuck online, many nz teens use social media and push aside their own responsabilities. The statastic which found out that 49% of nz teens say that found that social media disrupted their own time tells us the primary issue nz teens is the issue of being able to ground themselves as they can see how this is an issue but also cannot do anything about it. This can be a combination of factors from peer pressure and also that others are not helping them to jump off social media. Especially with how the internet is made it means that teens are more encouraged to stay online as the online can predit what the teens need at that moment.
                         </div>
 
                     </div>
