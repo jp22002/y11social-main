@@ -1,12 +1,11 @@
 <html>
     <head>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width">
 		<title>homepage</title>
     </head>
-    <body class="bg-[#1B2A41] display: none;">
+    <body class="min-h-screen bg-[#1B2A41] bg-cover bg-no-repeat">
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
             <div class="flex text-[2.4vw]">
                 <div class="ml-[7.3vw] text-[#CCC9DC]">

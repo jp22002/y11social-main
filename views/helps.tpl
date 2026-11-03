@@ -1,12 +1,11 @@
 <html>
     <head>
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
         <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width">
 		<title>define page</title>
     </head>
-    <body class="bg-[#1B2A41] display: none;">
+    <body class="min-h-screen bg-[#1B2A41] bg-cover bg-no-repeat">
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
             <div class="flex text-[2.4vw]">
                 <div class="ml-[7.3vw] text-[#CCC9DC]">
@@ -39,17 +38,35 @@
                 </div>
             </div>
         </nav>
-        <div class="bg-[#1B2A41]">
-            <div class="bg-[#0C1821] text-[#CCC9DC] ">
-                If you need help...
-            </div>
-            <div id="older"> 
+        
+         <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821] text-[2.4vw] text-[#CCC9DC] ml-[7vw] w-[86vw] p-[0.5vw] mt-[4vw]">
+            <div class="rounded-[1vw] bg-[#324A5F] w-[85vw] text-[#CCC9DC] p-[2vw] text-[1.28vw] h-[24vw]">
+                <div class="text-[4vw]">
+                    If you need help...
+                </div>
+                <div>
+                    Your general mental healthline:
+                </div>
+                <div id="older" class="ml-[3vw]">
 
-            </div>
-            <div id="young"> 
-
+                </div>
+                <div>
+                    Under 18 mental healthline:
+                </div>
+                <div id="young" class="ml-[3vw]">
+                </div>
+                <div>
+                    A organisation for helping with social media addiction:
+                </div>
+                <div class="ml-[3vw]">
+                    https://www.mediaaddictsanonymous.org/
+                </div>
+                <div>
+                    I wish you luck in your journey, James
+                </div>
             </div>
         </div>
+                
     </body>
 </html>
 
