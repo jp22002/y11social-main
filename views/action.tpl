@@ -9,30 +9,30 @@
     <body class="bg-[#1B2A41] display: none;">
         <nav id="navbar" class="bg-[#324A5F] border-b-[1vw] border-b-[#0C1821] pt-[1.1vw] pb-[1.1vw]">
             <div class="flex text-[2.4vw]">
-                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                <div class="ml-[7.3vw] text-[#CCC9DC]">
                     <a href="/" class="no-underline text-black">
-                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821] rounded-[2vw] w-[13vw] text-center">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821] rounded-[2vw] w-[16vw] text-center">
                             homepage
                         </div>
                     </a>
                 </div>
-                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                <div class="ml-[7.2vw] text-[#CCC9DC]">
                     <a href="/define" class="no-underline text-black">
-                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[16vw] text-center">
                             define
                         </div>
                     </a>
                 </div>
-                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                <div class="ml-[7.2vw] text-[#CCC9DC]">
                     <a href="/problem" class="no-underline text-black">
-                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[16vw] text-center">
                             problem
                         </div>
                     </a>
                 </div>
-                <div class="ml-[9.6vw] text-[#CCC9DC]">
+                <div class="ml-[7.2vw] text-[#CCC9DC]">
                     <a href="/action" class="no-underline text-black">
-                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[13vw] text-center">
+                        <div class="text-[#CCC9DC] decoration-none decoration-[#0C1821] border-[1vw] border-[#0C1821] bg-[#0C1821]  rounded-[2vw] w-[16vw] text-center">
                             action
                         </div>
                     </a>
@@ -42,7 +42,7 @@
         <div class="flex pt-[4vw]">
                 <div class="ml-[7vw] bg-[#0C1821] rounded-[1vw]">
                     <div class="rounded-[1vw] bg-[#324A5F] m-[0.5vw] w-[25vw]">
-                        <img src="static\addiction.jpeg" class="w-[25vw] h-[24vw] rounded-[1vw]">
+                        <img src="static/addiction.jpeg" class="w-[25vw] h-[24vw] rounded-[1vw] object-cover object-[-2vw_center]">
                     </div>
                 </div>
                 <div class="ml-[7vw] rounded-[1vw] bg-[#0C1821]">
